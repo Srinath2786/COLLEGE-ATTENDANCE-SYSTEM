@@ -1,4 +1,4 @@
-## 🎓 ESEC Attendance Management System
+# 🎓 ESEC Attendance Management System
 
 > A modern web-based **College Attendance and Lab Management System** developed using **PHP, MySQL, HTML, CSS, and JavaScript**. The application helps educational institutions efficiently manage students, laboratory sessions, attendance records, and reports through a secure role-based dashboard.
 
